@@ -2,5 +2,21 @@
   <router-view />
 </template>
 
-<style>
+<style lang="scss">
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+#app {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
 </style>
